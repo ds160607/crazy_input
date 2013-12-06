@@ -1,0 +1,1210 @@
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2722 units from cache.
+Compiling...
+   20% complete (ETR: 12 seconds)
+   20% complete (ETR: 12 seconds)
+   20% complete (ETR: 12 seconds)
+   30% complete (ETR: 12 seconds)
+   40% complete (ETR: 10 seconds)
+   50% complete (ETR: 8 seconds)
+   60% complete (ETR: 5 seconds)
+   70% complete (ETR: 4 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 17.43 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.13 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2721 cached/archived units.  Used 2721 / 2722 units from cache.
+Compiling...
+   Compilation completed in 1.15 seconds
+Invalid Unit: com.ds160607.crazyinput.client.Crazyinput
+Invalid units found: 1
+Compiling...
+   Compilation completed in 0.09 seconds
+Validating units:
+   [ERROR] Errors in 'file:/E:/eclipse_kepler_workspace/crazyinput/src/com/ds160607/crazyinput/client/CrazyInputWidget.java'
+      [ERROR] Line 7: The import com.ds cannot be resolved
+      [ERROR] Line 8: The import com.ds cannot be resolved
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/E:/eclipse_kepler_workspace/crazyinput/src/com/ds160607/crazyinput/client/CrazyInputWidget.java'
+      [ERROR] Line 7: The import com.ds cannot be resolved
+      [ERROR] Line 8: The import com.ds cannot be resolved
+   [ERROR] Unable to find type 'com.ds160607.crazyinput.client.Crazyinput'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 2722 cached/archived units.  Used 2722 / 2722 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Validating units:
+   [ERROR] Errors in 'file:/E:/eclipse_kepler_workspace/crazyinput/src/com/ds160607/crazyinput/client/CrazyInputWidget.java'
+      [ERROR] Line 7: The import com.ds cannot be resolved
+      [ERROR] Line 8: The import com.ds cannot be resolved
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/E:/eclipse_kepler_workspace/crazyinput/src/com/ds160607/crazyinput/client/CrazyInputWidget.java'
+      [ERROR] Line 7: The import com.ds cannot be resolved
+      [ERROR] Line 8: The import com.ds cannot be resolved
+   [ERROR] Unable to find type 'com.ds160607.crazyinput.client.Crazyinput'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 2721 cached/archived units.  Used 2721 / 2722 units from cache.
+Compiling...
+   Compilation completed in 0.17 seconds
+Invalid Unit: com.ds160607.crazyinput.client.Crazyinput
+Invalid units found: 1
+Compiling...
+   Compilation completed in 0.03 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] No class matching "Canvas" in urn:import:com.google.gwt.user.client.ui: <g:Canvas ui:field='canvas'> (:10)
+[ERROR] Deferred binding failed for 'com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2722 cached/archived units.  Used 2722 / 2722 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] com.google.gwt.canvas.client.Canvas has no default (zero args) constructor. To fix this, you can define a @UiFactory method on the UiBinder's owner, or annotate a constructor of Canvas with @UiConstructor.
+[ERROR] Deferred binding failed for 'com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2721 cached/archived units.  Used 2721 / 2722 units from cache.
+Compiling...
+   Compilation completed in 0.09 seconds
+Invalid Unit: com.ds160607.crazyinput.client.Crazyinput
+Invalid units found: 1
+Compiling...
+   Compilation completed in 0.03 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] com.google.gwt.canvas.client.Canvas has no default (zero args) constructor. To fix this, you can define a @UiFactory method on the UiBinder's owner, or annotate a constructor of Canvas with @UiConstructor.
+[ERROR] Deferred binding failed for 'com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2721 cached/archived units.  Used 2721 / 2722 units from cache.
+Compiling...
+   Compilation completed in 0.04 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.13 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385977149733_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2721 cached/archived units.  Used 2721 / 2722 units from cache.
+Compiling...
+   Compilation completed in 0.09 seconds
+Invalid Unit: com.ds160607.crazyinput.client.Crazyinput
+Invalid units found: 1
+Compiling...
+   Compilation completed in 0.01 seconds
+Validating units:
+   [ERROR] Errors in 'file:/E:/eclipse_kepler_workspace/crazyinput/src/com/ds160607/crazyinput/client/CrazyInputWidget.java'
+      [ERROR] Line 98: Type mismatch: cannot convert from Canvas to CanvasElement
+      [ERROR] Line 116: The method add(Widget) in the type FlowPanel is not applicable for the arguments (CanvasElement)
+      [ERROR] Line 438: The method setWidth(int) in the type CanvasElement is not applicable for the arguments (String)
+      [ERROR] Line 439: The method setCoordinateSpaceWidth(int) is undefined for the type CanvasElement
+      [ERROR] Line 440: The method setHeight(int) in the type CanvasElement is not applicable for the arguments (String)
+      [ERROR] Line 441: The method setCoordinateSpaceHeight(int) is undefined for the type CanvasElement
+      [ERROR] Line 669: The method addBlurHandler(new BlurHandler(){}) is undefined for the type CanvasElement
+      [ERROR] Line 675: The method addFocusHandler(new FocusHandler(){}) is undefined for the type CanvasElement
+      [ERROR] Line 705: The method addDoubleClickHandler(new DoubleClickHandler(){}) is undefined for the type CanvasElement
+      [ERROR] Line 711: The method addMouseDownHandler(new MouseDownHandler(){}) is undefined for the type CanvasElement
+      [ERROR] Line 715: The method getElement() is undefined for the type CanvasElement
+      [ERROR] Line 724: The method addKeyPressHandler(new KeyPressHandler(){}) is undefined for the type CanvasElement
+      [ERROR] Line 736: The method addKeyDownHandler(new KeyDownHandler(){}) is undefined for the type CanvasElement
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/E:/eclipse_kepler_workspace/crazyinput/src/com/ds160607/crazyinput/client/CrazyInputWidget.java'
+      [ERROR] Line 98: Type mismatch: cannot convert from Canvas to CanvasElement
+      [ERROR] Line 116: The method add(Widget) in the type FlowPanel is not applicable for the arguments (CanvasElement)
+      [ERROR] Line 438: The method setWidth(int) in the type CanvasElement is not applicable for the arguments (String)
+      [ERROR] Line 439: The method setCoordinateSpaceWidth(int) is undefined for the type CanvasElement
+      [ERROR] Line 440: The method setHeight(int) in the type CanvasElement is not applicable for the arguments (String)
+      [ERROR] Line 441: The method setCoordinateSpaceHeight(int) is undefined for the type CanvasElement
+      [ERROR] Line 669: The method addBlurHandler(new BlurHandler(){}) is undefined for the type CanvasElement
+      [ERROR] Line 675: The method addFocusHandler(new FocusHandler(){}) is undefined for the type CanvasElement
+      [ERROR] Line 705: The method addDoubleClickHandler(new DoubleClickHandler(){}) is undefined for the type CanvasElement
+      [ERROR] Line 711: The method addMouseDownHandler(new MouseDownHandler(){}) is undefined for the type CanvasElement
+      [ERROR] Line 715: The method getElement() is undefined for the type CanvasElement
+      [ERROR] Line 724: The method addKeyPressHandler(new KeyPressHandler(){}) is undefined for the type CanvasElement
+      [ERROR] Line 736: The method addKeyDownHandler(new KeyDownHandler(){}) is undefined for the type CanvasElement
+   [ERROR] Unable to find type 'com.ds160607.crazyinput.client.Crazyinput'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 2721 cached/archived units.  Used 2721 / 2722 units from cache.
+Compiling...
+   Compilation completed in 0.05 seconds
+Invalid Unit: com.ds160607.crazyinput.client.Crazyinput
+Invalid units found: 1
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385977400622_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2721 cached/archived units.  Used 2721 / 2722 units from cache.
+Compiling...
+   Compilation completed in 0.04 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] com.google.gwt.canvas.client.Canvas has no default (zero args) constructor. To fix this, you can define a @UiFactory method on the UiBinder's owner, or annotate a constructor of Canvas with @UiConstructor.
+[ERROR] Deferred binding failed for 'com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2723 units from cache.
+Compiling...
+   50% complete (ETR: 4 seconds)
+   50% complete (ETR: 4 seconds)
+   50% complete (ETR: 4 seconds)
+   50% complete (ETR: 4 seconds)
+   50% complete (ETR: 4 seconds)
+   50% complete (ETR: 4 seconds)
+   60% complete (ETR: 4 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 22.13 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385977851513_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2722 cached/archived units.  Used 2722 / 2723 units from cache.
+Compiling...
+   Compilation completed in 0.04 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385977869268_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385977870009_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385977878881_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385977881710_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] No class matching "WrapedCanvas" in urn:import:com.ds160607.crazyinput.client: <ds:WrapedCanvas height='100%' ui:field='wraped_canvas' width='100%'> (:11)
+[ERROR] Deferred binding failed for 'com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2723 units from cache.
+Compiling...
+   50% complete (ETR: 5 seconds)
+   50% complete (ETR: 5 seconds)
+   50% complete (ETR: 5 seconds)
+   50% complete (ETR: 5 seconds)
+   50% complete (ETR: 5 seconds)
+   50% complete (ETR: 5 seconds)
+   60% complete (ETR: 4 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 15.13 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.07 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385979606062_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385979608103_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Class FlowPanel has no appropriate setAddStyleName() method: <g:FlowPanel addStyleName='{style.cntnr}' ui:field='fDiv'> (:13)
+[ERROR] Deferred binding failed for 'com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2722 cached/archived units.  Used 2722 / 2723 units from cache.
+Compiling...
+   Compilation completed in 0.04 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Class FlowPanel has no appropriate setAddStyleName() method: <g:FlowPanel addStyleName='{style.cntnr}' ui:field='fDiv'> (:13)
+[ERROR] Deferred binding failed for 'com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2723 cached/archived units.  Used 2723 / 2723 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Class FlowPanel has no appropriate setAddStyleName() method: <g:FlowPanel addStyleName='{style.cntnr}' ui:field='fDiv'> (:13)
+[ERROR] Deferred binding failed for 'com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2722 cached/archived units.  Used 2722 / 2723 units from cache.
+Compiling...
+   Compilation completed in 0.04 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.00 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385979706852_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385979707620_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385979796642_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385979796734_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385980541393_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385980541523_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385980542101_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385980767353_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385980767437_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385981074975_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385981075044_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385981075573_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385981088550_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385981093210_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385981112764_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385981114907_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385981239650_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385981239726_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385981248903_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385981251066_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385982093688_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385982093801_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1385982094442_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2723 units from cache.
+Compiling...
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   60% complete (ETR: 3 seconds)
+   70% complete (ETR: 2 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 9.09 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.08 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1386047377400_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1386047379175_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1386047586818_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1386047587002_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2753 units from cache.
+Compiling...
+   20% complete (ETR: 18 seconds)
+   20% complete (ETR: 18 seconds)
+   20% complete (ETR: 18 seconds)
+   30% complete (ETR: 13 seconds)
+   40% complete (ETR: 9 seconds)
+   50% complete (ETR: 7 seconds)
+   60% complete (ETR: 5 seconds)
+   70% complete (ETR: 4 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 16.58 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.10 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.05 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1386147156113_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.02 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.09 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1386147158694_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 4.71 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1386164096246_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.42 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.09 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1386164114728_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.15 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.21 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1386164122376_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.15 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2755 units from cache.
+Compiling...
+   20% complete (ETR: 17 seconds)
+   20% complete (ETR: 17 seconds)
+   20% complete (ETR: 17 seconds)
+   30% complete (ETR: 16 seconds)
+   40% complete (ETR: 11 seconds)
+   50% complete (ETR: 9 seconds)
+   60% complete (ETR: 7 seconds)
+   70% complete (ETR: 5 seconds)
+   80% complete (ETR: 3 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 18.46 seconds
+Validating units:
+   [ERROR] Errors in 'file:/E:/eclipse_kepler_workspace/crazyinput/src/com/ds160607/crazyinput/client/BifacialTextBox.java'
+      [ERROR] Line 57: The method addBlurHandler(BlurHandler) is undefined for the type PseudoTextBox
+      [ERROR] Line 66: The method addFocusHandler(FocusHandler) is undefined for the type PseudoTextBox
+      [ERROR] Line 75: The method addDoubleClickHandler(DoubleClickHandler) is undefined for the type PseudoTextBox
+      [ERROR] Line 84: The method addMouseDownHandler(MouseDownHandler) is undefined for the type PseudoTextBox
+      [ERROR] Line 93: The method addKeyPressHandler(KeyPressHandler) is undefined for the type PseudoTextBox
+      [ERROR] Line 102: The method addKeyDownHandler(KeyDownHandler) is undefined for the type PseudoTextBox
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/E:/eclipse_kepler_workspace/crazyinput/src/com/ds160607/crazyinput/client/BifacialTextBox.java'
+      [ERROR] Line 57: The method addBlurHandler(BlurHandler) is undefined for the type PseudoTextBox
+      [ERROR] Line 66: The method addFocusHandler(FocusHandler) is undefined for the type PseudoTextBox
+      [ERROR] Line 75: The method addDoubleClickHandler(DoubleClickHandler) is undefined for the type PseudoTextBox
+      [ERROR] Line 84: The method addMouseDownHandler(MouseDownHandler) is undefined for the type PseudoTextBox
+      [ERROR] Line 93: The method addKeyPressHandler(KeyPressHandler) is undefined for the type PseudoTextBox
+      [ERROR] Line 102: The method addKeyDownHandler(KeyDownHandler) is undefined for the type PseudoTextBox
+   [ERROR] Unable to find type 'com.ds160607.crazyinput.client.Crazyinput'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 2755 cached/archived units.  Used 2755 / 2755 units from cache.
+Compiling...
+   Compilation completed in 0.00 seconds
+Validating units:
+   [ERROR] Errors in 'file:/E:/eclipse_kepler_workspace/crazyinput/src/com/ds160607/crazyinput/client/BifacialTextBox.java'
+      [ERROR] Line 57: The method addBlurHandler(BlurHandler) is undefined for the type PseudoTextBox
+      [ERROR] Line 66: The method addFocusHandler(FocusHandler) is undefined for the type PseudoTextBox
+      [ERROR] Line 75: The method addDoubleClickHandler(DoubleClickHandler) is undefined for the type PseudoTextBox
+      [ERROR] Line 84: The method addMouseDownHandler(MouseDownHandler) is undefined for the type PseudoTextBox
+      [ERROR] Line 93: The method addKeyPressHandler(KeyPressHandler) is undefined for the type PseudoTextBox
+      [ERROR] Line 102: The method addKeyDownHandler(KeyDownHandler) is undefined for the type PseudoTextBox
+Removing invalidated units
+Finding entry point classes
+   [ERROR] Errors in 'file:/E:/eclipse_kepler_workspace/crazyinput/src/com/ds160607/crazyinput/client/BifacialTextBox.java'
+      [ERROR] Line 57: The method addBlurHandler(BlurHandler) is undefined for the type PseudoTextBox
+      [ERROR] Line 66: The method addFocusHandler(FocusHandler) is undefined for the type PseudoTextBox
+      [ERROR] Line 75: The method addDoubleClickHandler(DoubleClickHandler) is undefined for the type PseudoTextBox
+      [ERROR] Line 84: The method addMouseDownHandler(MouseDownHandler) is undefined for the type PseudoTextBox
+      [ERROR] Line 93: The method addKeyPressHandler(KeyPressHandler) is undefined for the type PseudoTextBox
+      [ERROR] Line 102: The method addKeyDownHandler(KeyDownHandler) is undefined for the type PseudoTextBox
+   [ERROR] Unable to find type 'com.ds160607.crazyinput.client.Crazyinput'
+      [ERROR] Hint: Previous compiler errors may have made this type unavailable
+      [ERROR] Hint: Check the inheritance chain from your module; it may not be inheriting a required module or a module may not be adding its source path entries properly
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2755 units from cache.
+Compiling...
+   50% complete (ETR: 4 seconds)
+   50% complete (ETR: 4 seconds)
+   50% complete (ETR: 4 seconds)
+   50% complete (ETR: 4 seconds)
+   50% complete (ETR: 4 seconds)
+   50% complete (ETR: 4 seconds)
+   60% complete (ETR: 4 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 10.60 seconds
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.10 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.12 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1386240220067_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.01 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget.CrazyInputWidgetUiBinder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0.04 seconds
+      Removing invalidated units
+Rebinding com.ds160607.crazyinput.client.CrazyInputWidget_CrazyInputWidgetUiBinderImpl_designTime1386240223267_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0.03 seconds
+      Removing invalidated units

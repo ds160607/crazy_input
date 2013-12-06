@@ -1,0 +1,12 @@
+.crazyInput{
+	padding: 2px;
+	border: 1px solid #999999;
+	border-radius: 2px;
+	cursor: text;
+	width:200px;
+	height:35px;
+	color:blue;		
+	font-size:25px;
+	background:white;
+}
+

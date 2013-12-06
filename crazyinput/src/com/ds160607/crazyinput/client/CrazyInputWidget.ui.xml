@@ -1,0 +1,49 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui="urn:ui:com.google.gwt.uibinder"
+	xmlns:g="urn:import:com.google.gwt.user.client.ui" xmlns:ds="urn:import:com.ds160607.crazyinput.client">
+
+	<ui:style>
+		.cntnr {
+			position: relative;
+			overflow: hidden;
+		}
+		.w_canvas {
+			padding: 0;
+			margin: 0;
+			display: block;
+		}		
+		.w_canvas:focus {
+			outline: none;
+			-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+		}		
+		.curtain {
+			position: absolute;
+			left: -10px;
+			padding: 0;
+			color: transparent; 
+			margin: 0;
+			border: none;
+			opacity: 0;
+			background: inherit;
+			width: 200%;
+			height: 100%;
+			outline: none;
+		
+			top: -10000px;
+			-webkit-transform: translate3d(0, 10000px, 0);
+			-moz-transform: translate3d(0, 10000px, 0);
+			-ms-transform: translateY(10000px);
+			transform: translate3d(0, 10000px, 0);
+		}
+	</ui:style>
+
+	<g:FlowPanel ui:field="fDiv" addStyleNames="{style.cntnr}">
+		<ds:WrapedCanvas ui:field="wraped_canvas"
+			addStyleNames="{style.w_canvas}" width="100%" height="100%">
+		</ds:WrapedCanvas>
+		<ds:BifacialTextBox ui:field="curtain"
+			addStyleNames="{style.curtain}">
+		</ds:BifacialTextBox>
+	</g:FlowPanel>
+
+</ui:UiBinder> 
